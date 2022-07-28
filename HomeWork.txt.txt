@@ -1,1 +1,1 @@
-Home work of the first workshop on "Introduction to version control" topic.
+Home work of the first workshop on "Introduction to version control" topic was to add some several files of different types
